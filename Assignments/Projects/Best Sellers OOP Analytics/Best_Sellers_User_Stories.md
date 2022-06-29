@@ -1,3 +1,3 @@
-1# Best Sellers Project
+# Best Sellers Project
 
 Some content here
